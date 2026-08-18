@@ -1,2 +1,2 @@
-||tvac.sz.chat^
-||mercadolivre.com.br^
+@@||tvac.sz.chat^$important
+@@||mercadolivre.com.br^$important
