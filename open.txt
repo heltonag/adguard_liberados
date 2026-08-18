@@ -1,2 +1,2 @@
-||tvac.sz.chat/static/signin^
+||tvac.sz.chat^
 ||mercadolivre.com.br^
